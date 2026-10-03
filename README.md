@@ -2,6 +2,7 @@
 
 website in works: [sawal.dev](https://sawal.dev/)
 
+learning ml, progress: [ml-ai-trip](https://github.com/de-sawal/ml-ai-trip)
 <!--
 **de-sawal/de-sawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
